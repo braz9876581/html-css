@@ -1,0 +1,25 @@
+#principal {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin:auto;
+    text-align: center;
+    border-radius: 10px;
+    width: 500px;
+    height: 35px;
+    background-image: linear-gradient(to left, rgba(137, 1, 117, 0), rgba(92, 0, 78, 0.611));
+    padding: 05px;
+}
+
+body {
+    background-color: rgba(92, 0, 78, 0.611);
+}
+
+p {
+    text-align: center;
+    margin:auto;
+    width: 500px;
+    height: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.592);
+    background-color: rgba(255, 255, 255, 0.777);
+}
