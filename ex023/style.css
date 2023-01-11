@@ -53,7 +53,7 @@ main>div.segunda {
 
 main>div.a {
     box-shadow: 0px 0px 5px black;
-    background: black url(imagens/fundo.jpg)
+    background: black url(https://images.pexels.com/photos/117843/pexels-photo-117843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
     center center no-repeat fixed;
     background-size: cover;
     height: 590px;
