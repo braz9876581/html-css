@@ -32,7 +32,7 @@ section.background {
 }
 
 section>p {
-    min-width: 250px;
+    min-width: 120px;
     max-width: 320px;
     padding: 75px;
     text-align: justify;
@@ -55,7 +55,6 @@ section.imagem > p {
     background-color: rgba(0, 0, 0, 0.429);
     color: white;
     border-radius: 10px;
-    border: 2px dashed white;
 }
 
 footer {
