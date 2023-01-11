@@ -34,7 +34,7 @@ section.background {
 section>p {
     min-width: 120px;
     max-width: 320px;
-    padding: 75px;
+    padding: 25px;
     text-align: justify;
     font: italic bolder 2em Arial;
 }
